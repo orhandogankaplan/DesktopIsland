@@ -1,0 +1,16 @@
+.venv/
+.venv*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+build/
+build_app/
+build_store/
+dist/
+dist_*/
+artifacts/
+config.json
+*.lnk
+*.msix
+*.exe
+*.scr
